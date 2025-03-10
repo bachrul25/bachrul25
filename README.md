@@ -1,4 +1,4 @@
-# Hi there! I'm Bachrul Ullum Assrori 🌟<br><br>
+# Hi there! I'm Bachrul Ullum Assrori 🌟<br>
 # 💫 About Me:
 <br>🏫 College Student at Universitas Bhinneka PGRI Tulungagung<br>📚 Majoring in Informatics<br>💎 Passionate about Web Development, and AI<br>🔧 Tech Stack: Laravel, React.js, and Bootstrap<br><br><br><br>
 # Martian Arts
