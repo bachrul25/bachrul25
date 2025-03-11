@@ -3,7 +3,7 @@
 🏫 College Student at <b>Universitas Bhinneka PGRI Tulungagung</b><br>📚 Majoring in <b>Informatics</b><br>💎 Passionate about <b>Web Development, and AI</b><br>🔧 Tech Stack: <b>Laravel, React.js, and Bootstrap</b><br><br>
 ## Martial Arts :
 <center>
-![2f4c48339c771ee6b1272f5e81bc189d](https://github.com/user-attachments/assets/3c39002b-7f32-46f8-93ac-131c6925242f)</center> <br><br>
+![2f4c48339c771ee6b1272f5e81bc189d](https://github.com/user-attachments/assets/3c39002b-7f32-46f8-93ac-131c6925242f)> <br><br></center
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bchrlll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bachrulasr03@gmail.com) <br><br>
 # 💻 Tech Stack:
