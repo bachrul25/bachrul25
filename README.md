@@ -8,7 +8,7 @@
 ---
 
 ## 🥋 Martial Arts
-Karate practitioner — competed in FORKI event at Badan Hitam Blitar  
+Pencak Silat practitioner — competed in IPSI event at Madiun Championship 2021  
 <img src="https://github.com/user-attachments/assets/3c39002b-7f32-46f8-93ac-131c6925242f" width="300"/>
 
 ---
